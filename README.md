@@ -1,0 +1,2 @@
+El algoritmo requiere de un archivo CSV con los parametros como se muestra en el archivo "Data_soil_nailing.csv", con este archivo se hace el analisis exploratorio de datos y limpieza de los mismos con el codigo en python que se llama EDA.py.
+Con el archivo limpio obtenido en EDA.py "Data_soil_nailing_clean, se ejecuta el algoritmo de random forest, llamado RandomForest.py, obteniendo asi el rendimiento de cada uno de los parametros de interes, en este caso los factores de seguridad
